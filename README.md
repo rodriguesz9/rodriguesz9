@@ -22,27 +22,29 @@
 ---
 
 ## 💼 Áreas que estou evoluindo
-- Desenvolvimento Front-End  
+- Desenvolvimento Full Stack 
 - Web Apps e UX  
-- Construção de SaaS (com React + Python/Django futuramente)  
+- Construção de SaaS (com React + Python/Django)  
 - Lógica de programação  
 - Mini projetos semanais para treinar
 
 ---
 
 ## 🛠️ **Stacks & Ferramentas**
-- 🐍 **Python (Básico)**
-- ⚛️ **React.js (Aprendendo)**
+- 🐍 **Python **
+- ⚛️ **React.js **
 - 🌐 **JavaScript**
-- 🧰 Vibe Coding Tools (Butter, Pika, Base44, Flow.page etc.)
+- 🐈**Git & Github**
+- 📊**Banco de Dados (PostgreeSQL, MySQL ...)**
+- 🧰 Vibe Coding Tools (Butter,Base44, Flow.page etc.)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RobertRodrigues&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rodriguesz9&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertRodrigues&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesz9&layout=compact&theme=tokyonight)
 
 ---
 
