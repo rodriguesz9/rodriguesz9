@@ -42,9 +42,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RobertRodrigues&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rodriguesz9&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertRodrigues&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesz9&layout=compact&theme=tokyonight)
 
 ---
 
