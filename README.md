@@ -76,6 +76,7 @@
 
 <div align="left">
    <h3><b> 📱 Contato</b></h3>
+  <p>robertrodrigues.profissional@gmail.com</p>
   <a href="mailto:robertrodrigues.profissional@gmail.com" target="_blank">
   <img 
     src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
