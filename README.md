@@ -14,7 +14,7 @@
 
 ## 🧩 Projetos em desenvolvimento
 
-### 📱 Aplicativos (Vibe Coding & Web)
+### 📱 Aplicativos (Coding & Web)
 - ✔ **To-Do List App** — organização e produtividade  
 - ✔ **Book & Movie Reviews App** — avaliações de livros, filmes e séries  
 - ✔ Projetos diversos explorando criatividade e estudos de UX/UI
@@ -31,8 +31,8 @@
 ---
 
 ## 🛠️ **Stacks & Ferramentas**
-- 🐍 **Python **
-- ⚛️ **React.js **
+- 🐍 **Python**
+- ⚛️ **React.js**
 - 🌐 **JavaScript**
 - 🐈**Git & Github**
 - 📊**Banco de Dados (PostgreeSQL, MySQL ...)**
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rodriguesz9&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=gustavoguanabarashow_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesz9&layout=compact&theme=tokyonight)
 
