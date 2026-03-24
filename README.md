@@ -8,16 +8,9 @@
 🎓 Estudante de TI (16 anos) 
 🚀 Desenvolvedor iniciante construindo projetos que podem ajudar a vida de muitas pessoas. 
 📈 Meu maior objetivo é criar soluções úteis, práticas e acessíveis para o maior número de pessoas possível.
-🌐 Meu portifolio online: https://robertrodrigues-portifolio.vercel.app/
+
 ---
 
-<div align="center">
-  
-## 🌐 Meu Site Principal
-🟦 **Finanças Já** — Um site simples para organização financeira  
-🔗 https://financasja.free.nf
-
-</div>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #86efac, #22c55e, #16a34a);" />
 
 <h3 align="center">📊 <b>Estatísticas do GitHub</b></h3>
