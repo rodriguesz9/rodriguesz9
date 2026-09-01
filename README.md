@@ -13,11 +13,9 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante do **2º ano do Técnico Integrado em TI** na FUNEC Riacho, em Contagem/MG
+- 🎓 Estudante do **2º ano do Técnico Integrado em TI** na FUNEC Riacho
 - 💻 Curto construir projetos reais que resolvem problemas de verdade, não só exercícios de sala de aula
 - 🛠️ Já passei por front-end, back-end, banco de dados, Docker e integrações com IA
-- 📊 Também ajudo a família com gestão fiscal e financeira — o que me fez criar ferramentas próprias pra facilitar esse trabalho
-- ♟️ Nas horas vagas: calistenia, basquete, xadrez (~1700 rapid no chess.com) e um bom anime
 - 🐧 Rodo tudo no Linux (Zorin OS) no dia a dia
 
 ---
